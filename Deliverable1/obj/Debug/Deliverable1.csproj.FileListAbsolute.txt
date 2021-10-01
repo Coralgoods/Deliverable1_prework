@@ -1,0 +1,12 @@
+/Users/eduardodiaz/Documents/Prework/Deliverable1/Deliverable1/Deliverable1/bin/Debug/Deliverable1.exe
+/Users/eduardodiaz/Documents/Prework/Deliverable1/Deliverable1/Deliverable1/bin/Debug/Deliverable1.pdb
+/Users/eduardodiaz/Documents/Prework/Deliverable1/Deliverable1/Deliverable1/obj/Debug/Deliverable1.csproj.AssemblyReference.cache
+/Users/eduardodiaz/Documents/Prework/Deliverable1/Deliverable1/Deliverable1/obj/Debug/Deliverable1.csproj.CoreCompileInputs.cache
+/Users/eduardodiaz/Documents/Prework/Deliverable1/Deliverable1/Deliverable1/obj/Debug/Deliverable1.exe
+/Users/eduardodiaz/Documents/Prework/Deliverable1/Deliverable1/Deliverable1/obj/Debug/Deliverable1.pdb
+/Users/eduardodiaz/Documents/Prework/Deliverable1/Deliverable1_prework/Deliverable1/bin/Debug/Deliverable1.exe
+/Users/eduardodiaz/Documents/Prework/Deliverable1/Deliverable1_prework/Deliverable1/bin/Debug/Deliverable1.pdb
+/Users/eduardodiaz/Documents/Prework/Deliverable1/Deliverable1_prework/Deliverable1/obj/Debug/Deliverable1.csproj.AssemblyReference.cache
+/Users/eduardodiaz/Documents/Prework/Deliverable1/Deliverable1_prework/Deliverable1/obj/Debug/Deliverable1.csproj.CoreCompileInputs.cache
+/Users/eduardodiaz/Documents/Prework/Deliverable1/Deliverable1_prework/Deliverable1/obj/Debug/Deliverable1.exe
+/Users/eduardodiaz/Documents/Prework/Deliverable1/Deliverable1_prework/Deliverable1/obj/Debug/Deliverable1.pdb
